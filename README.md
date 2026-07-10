@@ -1,5 +1,4 @@
 # ikai
-<br>
 <!-- beginning -->
 <br>
 "ikai" (इकाई) translates to "unit" or "ones". <br>
